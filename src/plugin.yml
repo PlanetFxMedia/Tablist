@@ -1,0 +1,5 @@
+name: PlanetFxTablist
+version: 1.1.2
+author: Sebastian Mikolai
+
+main: de.SebastianMikolai.PlanetFx.Tablist.Tablist
